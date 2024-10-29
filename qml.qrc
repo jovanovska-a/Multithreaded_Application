@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+	<file>CustomButton.qml</file>
+        <file>background.jpg</file>
+        <file>background2.jpg</file>
+        <file>background3.jpg</file>
+	<file>background4.jpg</file>
+    </qresource>
+</RCC>
